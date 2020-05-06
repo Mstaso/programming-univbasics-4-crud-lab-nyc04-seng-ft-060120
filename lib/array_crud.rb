@@ -33,6 +33,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
+  colors = ["wow", "blue", "am", "orange"]
   
 end
 
