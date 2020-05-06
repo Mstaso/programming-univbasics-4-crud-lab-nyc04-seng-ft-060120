@@ -16,8 +16,8 @@ def add_element_to_start_of_array(array, element)
   colors.unshift ("wow")
 end
 
-def remove_element_from_end_of_array(colors)
-  colors.shift("arrays!")
+def remove_element_from_end_of_array(array)
+  
 end
 
 def remove_element_from_start_of_array(array)
