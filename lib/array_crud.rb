@@ -23,6 +23,7 @@ end
 
 
 def remove_element_from_start_of_array(array)
+  colors = ["wow", "red", "blue", "green", "orange"]
   
 end
 
